@@ -1,0 +1,5 @@
+E:\workspacec#\记忆游戏II\HIDE\bin\Debug\HIDE.dll
+E:\workspacec#\记忆游戏II\HIDE\bin\Debug\HIDE.pdb
+E:\workspacec#\记忆游戏II\HIDE\obj\Debug\ResolveAssemblyReference.cache
+E:\workspacec#\记忆游戏II\HIDE\obj\Debug\HIDE.dll
+E:\workspacec#\记忆游戏II\HIDE\obj\Debug\HIDE.pdb

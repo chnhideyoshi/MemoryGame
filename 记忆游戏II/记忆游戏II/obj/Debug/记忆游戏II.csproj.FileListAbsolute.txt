@@ -1,0 +1,17 @@
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\记忆游戏II.exe
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\记忆游戏II.pdb
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\ResolveAssemblyReference.cache
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.Properties.Resources.resources
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.csproj.GenerateResource.Cache
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.exe
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.pdb
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\IrisSkin2.dll
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.Form1.resources
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\HIDE.dll
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\HIDE.pdb
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\记忆游戏II.exe.manifest
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\记忆游戏II.application
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.exe.manifest
+E:\workspacec#\记忆游戏II\记忆游戏II\obj\Debug\记忆游戏II.application
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\CHNHIDEYOSHI.dll
+E:\workspacec#\记忆游戏II\记忆游戏II\bin\Debug\CHNHIDEYOSHI.pdb
